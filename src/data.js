@@ -7,7 +7,7 @@ const data = {
         "Travelling",
         "Football"
     ],
-    jobTitle : "Software Engineer",
+    jobTitle : "Engineering",
     degree: "Bachelor's in Computer Engineering",
     campus: "Pulchowk Campus",
     location: "Nepal",
